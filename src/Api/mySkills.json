@@ -1,0 +1,34 @@
+[
+    {
+      "skillname": "MS Excel",
+      "image": "./Images/ms-excel.webp"
+    },
+    {
+      "skillname": "MS Word",
+      "image": "./Images/ms-word.webp"
+    },
+    {
+      "skillname": "Excel Macros",
+      "image": "./Images/xls-function.webp"
+    },
+    {
+      "skillname": "Advance Excel",
+      "image": "./Images/adv-excel.webp"
+    },
+    {
+      "skillname": "VLOOKUP",
+      "image": "./Images/xls-function.webp"
+    },
+    {
+      "skillname": "Pivot Table",
+      "image": "./Images/pivot-table.webp"
+    },
+    {
+      "skillname": "HLOOKUP",
+      "image": "./Images/xls-function.webp"
+    },
+    {
+      "skillname": "XLOOKUP",
+      "image": "./Images/xls-function.webp"
+    }
+]
